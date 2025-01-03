@@ -1,7 +1,7 @@
 ---
 title: "Immigration, Task Complementarity and Total Factor Productivity"
 collection: publications
-category: work-in-progress
+category: manuscripts
 permalink: /publication/ImmigrationTfp
 date: 2025-01-02
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
