@@ -1,5 +1,5 @@
 ---
-title: "Intermediate Macroeconomic Theory"
+title: "Intermediate Macroeconomic Theor (TA)y, Fall 2024"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-Fall-Teaching
