@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/ImmigrationTfp
 date: 2025-01-02
-#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
+
+Testing testin 1,2
