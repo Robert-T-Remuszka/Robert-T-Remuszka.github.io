@@ -1,5 +1,5 @@
 ---
-title: "Immigration, Task Complementarity and Total Factor Productivity"
+title: "Immigration, Task Specialization and Total Factor Productivity"
 collection: publications
 category: work_in_progress
 permalink: /publication/ImmigrationTfp
