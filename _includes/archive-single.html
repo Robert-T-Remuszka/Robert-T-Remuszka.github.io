@@ -46,6 +46,8 @@
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.citation and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
+    {% elsif post.gitrepo and post.slidesurl %}
+      <p><a href="{{ post.gitrepo }}"><i class ="fa-brands fa-github"></i> Git Repo</a> | <a href="{{ post.slidesurl }}"><i class = "fa-solid fa-projector"></i> Download Slides</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
     {% elsif post.paperurl %}
